@@ -35,7 +35,7 @@ This solves the Windows/WASAPI exclusive-mode problem cleanly:
 ## Install
 
 ```bash
-git clone https://github.com/YOURNAME/roon-cava-display.git
+git clone https://github.com/selbora/roon-cava-display.git
 cd roon-cava-display
 chmod +x install.sh uninstall.sh
 ./install.sh --resolution 1600x600 --mode mirror
